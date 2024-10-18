@@ -534,7 +534,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefabEnemies:
-  - {fileID: 7239971330144640601, guid: 453de63a2e2b8814e8e61615cf685227, type: 3}
+  - {fileID: 4070209521177695457, guid: 10ae278da906f451594d7989d76b6d15, type: 3}
   enemySpawnPerSecond: 0.5
   enemyInsetDefault: 1.5
   gameRestartDelay: 2
@@ -590,6 +590,8 @@ MonoBehaviour:
   speed: 30
   rollMult: -45
   pitchMult: 30
+  projectilePrefab: {fileID: 367702083058317098, guid: a57b28f91d29cb44a885814e76b40f1f, type: 3}
+  projectileSpeed: 40
 --- !u!4 &2006547745
 Transform:
   m_ObjectHideFlags: 0
